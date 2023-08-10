@@ -1,2 +1,2 @@
 # unity_studies
-Self-studied Unity tasks
+Self-studied Unity cases
